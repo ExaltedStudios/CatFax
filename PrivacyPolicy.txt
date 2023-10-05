@@ -1,0 +1,3 @@
+This application gives you daily cat facts from a list of cat facts stored in the application code. 
+We do not collect or use your data in any way. 
+No inbound or outbound server calls are made at any point in time. 
